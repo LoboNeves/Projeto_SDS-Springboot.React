@@ -20,4 +20,4 @@
 
 ## 🔌 Como executar
 
-<p>Simplesmente acesse o link clicando <a href="https://dsvendas-neves.netlify.app">aqui</a>.</p>
+<p>Simplesmente acesse o link clicando <a href="https://dsvendas-neves.netlify.app">aqui</a> e espera alguns segundos para conectar com o back-end para trazer as informações do dashboard.</p>
